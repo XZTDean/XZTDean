@@ -1,5 +1,7 @@
 <h1 align="center">
+  <picture>
     <img src="https://raw.githubusercontent.com/XZTDean/XZTDean/dist/username_header.svg" />
+  </picture>
 </h1>
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
